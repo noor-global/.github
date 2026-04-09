@@ -7,8 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-nuvic--org-black?style=for-the-badge&logo=github)](https://github.com/nuvic-org)
 
 <br/>
-
-![NUVIC Logo](https://avatars.githubusercontent.com/u/262738517?s=200&v=4)
+<img width="1894" height="526" alt="image" src="https://github.com/user-attachments/assets/fccc57d5-343f-446e-a875-5fa1a42061f5" />
 
 **Architecting the next era of discoveries through unified technology and scalable human-centric experiences.**
 
