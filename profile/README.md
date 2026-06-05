@@ -3,7 +3,7 @@
 # Noor Unified Ventures of Innovation & Complex Organization
 
 [![Website](https://img.shields.io/badge/Website-nuvic.org-000000?style=for-the-badge&logo=appveyor&logoColor=white)](https://nuvic.org)
-[![Status](https://img.shields.io/badge/Status-Operational-00FF00?style=for-the-badge&logo=statuspage&logoColor=white)](https://nuvic.org)
+[![Status](https://img.shields.io/badge/Status-Operational-355031?style=for-the-badge&logo=statuspage&logoColor=white)](https://nuvic.org)
 [![GitHub](https://img.shields.io/badge/GitHub-nuvic--org-black?style=for-the-badge&logo=github)](https://github.com/nuvic-org)
 
 <br/>
