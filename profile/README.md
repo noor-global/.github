@@ -21,12 +21,11 @@ NUVIC is a multi-dimensional ecosystem dedicated to pioneering the intersection 
 
 | Division | Focus | Objective |
 | :--- | :--- | :--- |
-| **Research** | Exploration | Pioneering breakthroughs that define tomorrow. |
 | **Agency** | Growth | Empowering organizations to evolve and lead. |
+| **Research** | Exploration | Pioneering breakthroughs that define tomorrow. |
 | **Tech** | Infrastructure | Transforming global engagement and construction. |
 | **Studio** | Aesthetic | Shaping the future of design and emotion. |
 | **Edu** | Knowledge | Reimagining global sharing and learning. |
-| **Agro** | Planetary | Innovating agriculture and food science. |
 
 ---
 
@@ -40,7 +39,6 @@ Stay updated with our progress and join the transformation.
 <br/>
 
 © 2026 **NUVIC** | Global Transformation Agenda
-*Pulse & Progress*
 
 </div>
 
