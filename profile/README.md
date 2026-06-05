@@ -34,7 +34,7 @@ NUVIC is a multi-dimensional ecosystem dedicated to pioneering the intersection 
 
 Stay updated with our progress and join the transformation.
 
-[Website](https://nuvic.org) • [Instagram](https://instagram.com/nuvic_org/) • [LinkedIn](https://linkedin.com/company/nuvic-org) • [GitHub](https://github.com/nuvic-org)
+[Website](https://nuvic.org) • [Instagram](https://instagram.com/nuvic_org/) • [LinkedIn](https://linkedin.com/company/nuvic-org) • [Career](https://career.nuvic.org)
 
 <br/>
 
